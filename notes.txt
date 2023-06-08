@@ -1,0 +1,13 @@
+Step 1) Collect images ( 1400* 600)
+        https://www.pexels.com/
+
+step 2) write carousel component code 
+
+
+step 3) add required js cdn links
+
+
+step 4) write js code snippet to slide your images 
+$('.carousel').carousel({
+  interval: 2000
+})
